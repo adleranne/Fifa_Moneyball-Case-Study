@@ -18,8 +18,14 @@ itself (e.g. personality cult, popularity with sponsors etc.).
 
 Steps taken in the analysis:
 1. data cleaning (see data_cleaning python script)
+--> done
 2. exploration of the relevant data and descreptive statistics (see descriptive python script)
+--> partially done
 3. splitting the data set into the 4 major player positions forwards, midfielders, defenders and goalkeepers
-4. for each player position: factor analysis of the skills to identify major skill sets and reduce data complexity
-5. for each player position: regression analysis of the skill sets on the market value to check their influence
-6. Presentation of results, comparing the results of the 4 different positions
+--> done
+5. for each player position: factor analysis of the skills to identify major skill sets and reduce data complexity
+--> done for position forward, needs to be done for other three positions
+6. for each player position: regression analysis of the skill sets on the market value to check their influence
+--> done for position forward, needs to be done for other three positions
+7. Presentation of results, comparing the results of the 4 different positions
+--> tbd
